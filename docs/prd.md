@@ -81,7 +81,7 @@ longer a source of stress, but a opportunity for connection and enjoyment.
 
 - **Feature Name:** Recipe Swiping
 - **Detailed Description:** Users swipe through a curated selection of recipes, with the option to
-  like or dislike each one. Similar to Tinder! THIS IS THE MVP!
+  like or dislike each one. Similar to Tinder!
 - **Purpose:** Provides a fun and engaging way for users to discover new recipes and match with
   their partner
 - **Dependencies/Assumptions:** Recipe data, user profiles, and swiping algorithm
@@ -280,18 +280,20 @@ The app adapts its layout and behavior for different platforms and screen sizes.
 
 ## 1. Frontend
 
-- **Framework**: EXPO React Native for mobile (iOS, Android and Web) utilizing a Single Page
+- **Framework**: EXPO! Native for mobile (iOS, Android and Web) utilizing a Single Page
   Application (SPA) approach for a seamless user experience. This choice allows for code sharing
   between mobile and web platforms, reducing development time and costs.
 - **IMPORTANT**:
-- **UI Styling System**: Utilize a design system with Tailwind CSS for styling, given its
+  - Expo(react native) is already installed. In `src\frontend\**`
+  - USE LINTER AND PRETTIER.
+  - DO NOT USE `<ANY>` AS A TYPE
+  - Use Jest or something comparable.
+- **UI Styling System**: Utilize a modern design system with Tailwind CSS for styling, given its
   utility-first approach that aligns well with a modern and clean branding style. This will enable
   rapid development and a consistent design across the application.
-- **Routing & Navigation**: Implement routing using React Navigation for mobile and React Router for
+- **Routing & Navigation**: Implement routing whatever is supported by latest Expo react native release.
   web, ensuring a smooth navigation experience between different sections of the app.
-- **State Management**: Employ React Context API for state management, considering the app's
-  moderate complexity. This approach allows for efficient state sharing across components without
-  the need for an external store.
+- **State Management**: Considering the app's moderate complexity, this is somehting we need to pay close attention too.
 - **Component Structure**: Organize components into a modular structure, with a focus on
   reusability. This includes separate folders for shared components, screens, and navigation
   components.
@@ -869,18 +871,17 @@ The project uses the following configuration files:
 
 - **public**: Static assets and the main HTML entry point.
 - **src**: Source code for the application.
-  - **backend**
-    - **api**: Backend API functions calling mongo, authentication etc.
-  - **frontend**
-    - **components**: Reusable UI components.
-    - **pages**: Route-level views.
-    - **context**: App-wide React contexts.
-    - **features**: Feature-specific code (authentication, card swiper, matching).
-    - **hooks**: Custom React hooks.
-    - **models**: Data models (Recipe, User).
-    - **styles**: Global styles and overrides.
-    - **utils**: Utility functions.
-    - **types**: Type definitions for API and models.
+  - **components**: Reusable UI components.
+  - **pages**: Route-level views.
+  - **api**: Frontend API functions calling backend or Supabase.
+  - **context**: App-wide React contexts.
+  - **features**: Feature-specific code (authentication, card swiper, matching).
+  - **hooks**: Custom React hooks.
+  - **models**: Data models (Recipe, User).
+  - **styles**: Global styles and overrides.
+  - **utils**: Utility functions.
+  - **types**: Type definitions for API and models.
+- **supabase**: Supabase database schema, seed data, and edge functions.
 
 ## Key Files
 
