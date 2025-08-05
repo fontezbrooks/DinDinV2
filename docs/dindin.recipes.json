@@ -1,0 +1,1288 @@
+[{
+  "_id": {
+    "$oid": "68919aec3275314f2da5d104"
+  },
+  "title": "Viral Beef Bowl with Hot Honey and Sweet Potatoes",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1",
+      "unit": "lb"
+    },
+    {
+      "name": "sweet potatoes",
+      "amount": "2",
+      "unit": "medium"
+    },
+    {
+      "name": "cottage cheese",
+      "amount": "1",
+      "unit": "cup"
+    },
+    {
+      "name": "avocado",
+      "amount": "1",
+      "unit": "medium"
+    },
+    {
+      "name": "hot honey",
+      "amount": "3",
+      "unit": "tablespoons"
+    },
+    {
+      "name": "taco seasoning",
+      "amount": "1",
+      "unit": "packet"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1",
+      "unit": "tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1",
+      "unit": "tablespoon"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Preheat oven to 425°F. Dice sweet potatoes and toss with olive oil, salt, and pepper.",
+      "duration": 5
+    },
+    {
+      "step": 2,
+      "description": "Roast sweet potatoes for 25 minutes until tender and browning at edges.",
+      "duration": 25
+    },
+    {
+      "step": 3,
+      "description": "Meanwhile, brown ground beef in a skillet over medium-high heat.",
+      "duration": 6
+    },
+    {
+      "step": 4,
+      "description": "Add tomato paste and cook for 1 minute, then add taco seasoning with 1/3 cup water.",
+      "duration": 3
+    },
+    {
+      "step": 5,
+      "description": "Simmer until thickened, about 5 minutes.",
+      "duration": 5
+    },
+    {
+      "step": 6,
+      "description": "Assemble bowls with beef, roasted sweet potatoes, cottage cheese, and sliced avocado.",
+      "duration": 3
+    },
+    {
+      "step": 7,
+      "description": "Drizzle with hot honey and serve immediately.",
+      "duration": 1
+    }
+  ],
+  "difficulty": "easy",
+  "description": "This viral TikTok sensation combines seasoned ground beef with roasted sweet potatoes, creamy cottage cheese, and a drizzle of hot honey for the perfect balance of savory, sweet, and spicy flavors.",
+  "image_url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=1000",
+  "prep_time": 15,
+  "cook_time": 30,
+  "cuisine_type": "American",
+  "dietary_tags": [
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 32,
+    "carbs": 28,
+    "fat": 32,
+    "fiber": 8,
+    "sugar": 12
+  },
+  "import_metadata": {
+    "source_url": "https://hometohomestead.com/2025/04/30/the-viral-ground-beef-hot-honey-bowl/",
+    "scraper_name": "RecipeExtractor",
+    "scraper_version": "1.0.0",
+    "confidence_score": 0.9,
+    "extracted_at": "2025-01-28T10:00:00Z",
+    "notes": "Viral social media recipe with 4.5+ star ratings"
+  }
+},
+{
+  "_id": {
+    "$oid": "68919aec3275314f2da5d105"
+  },
+  "title": "Vegetarian Turkish Pasta with Lentils and Paprika Butter",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "1",
+      "unit": "lb"
+    },
+    {
+      "name": "green lentils",
+      "amount": "1",
+      "unit": "cup"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "2",
+      "unit": "cups"
+    },
+    {
+      "name": "garlic",
+      "amount": "2",
+      "unit": "cloves"
+    },
+    {
+      "name": "butter",
+      "amount": "8",
+      "unit": "tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1",
+      "unit": "teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "0.5",
+      "unit": "medium"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "2",
+      "unit": "cups"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1",
+      "unit": "bunch"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2",
+      "unit": "tablespoons"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Cook pasta according to package directions until al dente.",
+      "duration": 12
+    },
+    {
+      "step": 2,
+      "description": "Meanwhile, cook lentils with chopped onion in olive oil until tender.",
+      "duration": 15
+    },
+    {
+      "step": 3,
+      "description": "Season lentils with cumin, paprika, salt, and pepper.",
+      "duration": 2
+    },
+    {
+      "step": 4,
+      "description": "Mix yogurt with grated garlic, lemon juice, salt, and dried herbs.",
+      "duration": 3
+    },
+    {
+      "step": 5,
+      "description": "Melt butter in a small pan and stir in hot paprika until fragrant.",
+      "duration": 2
+    },
+    {
+      "step": 6,
+      "description": "Serve pasta topped with lentil mixture, garlic yogurt, and paprika butter.",
+      "duration": 3
+    },
+    {
+      "step": 7,
+      "description": "Garnish with chopped tomatoes and fresh parsley.",
+      "duration": 2
+    }
+  ],
+  "difficulty": "easy",
+  "description": "This viral TikTok vegetarian twist on Turkish pasta features protein-rich lentils, creamy garlic yogurt, and aromatic paprika butter for a Mediterranean feast that's both healthy and satisfying.",
+  "image_url": "https://images.unsplash.com/photo-1621996346565-e3dbc353d2e5?q=80&w=1000",
+  "prep_time": 15,
+  "cook_time": 20,
+  "cuisine_type": "Turkish",
+  "dietary_tags": [
+    "vegetarian",
+    "high-fiber",
+    "high-protein"
+  ],
+  "nutrition": {
+    "calories": 661,
+    "protein": 22,
+    "carbs": 78,
+    "fat": 28,
+    "fiber": 13,
+    "sugar": 8
+  },
+  "import_metadata": {
+    "source_url": "https://wellandfull.com/2024/12/vegetarian-turkish-pasta-from-the-viral-tiktok-recipe/",
+    "scraper_name": "RecipeExtractor",
+    "scraper_version": "1.0.0",
+    "confidence_score": 0.95,
+    "extracted_at": "2025-01-28T10:00:00Z",
+    "notes": "Viral TikTok adaptation with excellent ratings"
+  }
+},
+{
+  "_id": {
+    "$oid": "68919aec3275314f2da5d106"
+  },
+  "title": "Marry Me Chicken - The Original Viral Recipe",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "4",
+      "unit": "pieces"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "3",
+      "unit": "tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2",
+      "unit": "cloves"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1",
+      "unit": "tablespoon"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1",
+      "unit": "teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "0.75",
+      "unit": "cup"
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "0.5",
+      "unit": "cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "0.5",
+      "unit": "cup"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "0.25",
+      "unit": "cup"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "0.25",
+      "unit": "cup"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Preheat oven to 375°F. Season chicken breasts generously with salt and pepper.",
+      "duration": 3
+    },
+    {
+      "step": 2,
+      "description": "Heat 1 tablespoon oil in large oven-safe skillet over medium-high heat.",
+      "duration": 2
+    },
+    {
+      "step": 3,
+      "description": "Sear chicken until golden brown, about 5 minutes per side. Transfer to plate.",
+      "duration": 10
+    },
+    {
+      "step": 4,
+      "description": "Add remaining oil to skillet. Sauté garlic, thyme, and red pepper flakes for 1 minute.",
+      "duration": 1
+    },
+    {
+      "step": 5,
+      "description": "Add broth, sun-dried tomatoes, cream, and Parmesan. Bring to simmer.",
+      "duration": 3
+    },
+    {
+      "step": 6,
+      "description": "Return chicken to skillet and transfer to oven. Bake 10-12 minutes until cooked through.",
+      "duration": 12
+    },
+    {
+      "step": 7,
+      "description": "Garnish with fresh basil and serve immediately.",
+      "duration": 2
+    }
+  ],
+  "difficulty": "medium",
+  "description": "The original viral 'Marry Me Chicken' recipe that became a TikTok sensation. Featuring seared chicken breasts in a creamy sun-dried tomato sauce that's so delicious, it might just inspire a marriage proposal.",
+  "image_url": "https://images.unsplash.com/photo-1604503468506-a8da13d82791?q=80&w=1000",
+  "prep_time": 10,
+  "cook_time": 25,
+  "cuisine_type": "Italian-American",
+  "dietary_tags": [
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 485,
+    "protein": 42,
+    "carbs": 8,
+    "fat": 32,
+    "fiber": 2,
+    "sugar": 6
+  },
+  "import_metadata": {
+    "source_url": "https://www.delish.com/cooking/recipe-ideas/a46330/skillet-sicilian-chicken-recipe/",
+    "scraper_name": "RecipeExtractor",
+    "scraper_version": "1.0.0",
+    "confidence_score": 0.98,
+    "extracted_at": "2025-01-28T10:00:00Z",
+    "notes": "Original Delish recipe that went viral on TikTok with 4.8+ stars"
+  }
+},
+{
+  "_id": {
+    "$oid": "68919aec3275314f2da5d107"
+  },
+  "title": "Ultimate Mediterranean Seafood Skillet",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "14",
+      "unit": "oz"
+    },
+    {
+      "name": "scallops",
+      "amount": "8",
+      "unit": "pieces"
+    },
+    {
+      "name": "jumbo shrimp",
+      "amount": "8",
+      "unit": "pieces"
+    },
+    {
+      "name": "mussels",
+      "amount": "10",
+      "unit": "pieces"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "3",
+      "unit": "tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "unit": "medium"
+    },
+    {
+      "name": "carrot",
+      "amount": "1",
+      "unit": "medium"
+    },
+    {
+      "name": "celery",
+      "amount": "1",
+      "unit": "stalk"
+    },
+    {
+      "name": "garlic",
+      "amount": "6",
+      "unit": "cloves"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2",
+      "unit": "medium"
+    },
+    {
+      "name": "white wine",
+      "amount": "0.33",
+      "unit": "cup"
+    },
+    {
+      "name": "fish broth",
+      "amount": "1.5",
+      "unit": "cups"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "0.25",
+      "unit": "teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "0.5",
+      "unit": "cup"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Heat olive oil in large skillet over medium heat. Pat scallops dry and season.",
+      "duration": 3
+    },
+    {
+      "step": 2,
+      "description": "Sear scallops 1 minute per side, then remove and set aside.",
+      "duration": 2
+    },
+    {
+      "step": 3,
+      "description": "Add chopped onion, carrot, celery, and garlic to same skillet. Sauté 3 minutes.",
+      "duration": 3
+    },
+    {
+      "step": 4,
+      "description": "Add grated tomatoes and thyme, cook until thickened, about 3 minutes.",
+      "duration": 3
+    },
+    {
+      "step": 5,
+      "description": "Add white wine and simmer until alcohol cooks off, 2 minutes.",
+      "duration": 2
+    },
+    {
+      "step": 6,
+      "description": "Add fish broth and saffron, bring to boil, then reduce heat and cover.",
+      "duration": 3
+    },
+    {
+      "step": 7,
+      "description": "Add cod and mussels, cover and cook 5 minutes until mussels open.",
+      "duration": 5
+    },
+    {
+      "step": 8,
+      "description": "Add shrimp and reserved scallops, cook 1-2 minutes until shrimp are pink.",
+      "duration": 2
+    },
+    {
+      "step": 9,
+      "description": "Garnish with lemon slices and fresh parsley. Serve immediately.",
+      "duration": 2
+    }
+  ],
+  "difficulty": "medium",
+  "description": "A stunning one-pan seafood feast featuring cod, scallops, shrimp, and mussels in a saffron-infused Mediterranean broth. This restaurant-quality dish is perfect for impressing dinner guests.",
+  "image_url": "https://images.unsplash.com/photo-1565680018434-b513d5e5fd47?q=80&w=1000",
+  "prep_time": 15,
+  "cook_time": 25,
+  "cuisine_type": "Mediterranean",
+  "dietary_tags": [
+    "gluten-free",
+    "dairy-free",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 58,
+    "carbs": 12,
+    "fat": 14,
+    "fiber": 3,
+    "sugar": 8
+  },
+  "import_metadata": {
+    "source_url": "https://spainonafork.com/the-ultimate-seafood-skillet-recipe/",
+    "scraper_name": "RecipeExtractor",
+    "scraper_version": "1.0.0",
+    "confidence_score": 0.92,
+    "extracted_at": "2025-01-28T10:00:00Z",
+    "notes": "Highly rated Mediterranean seafood recipe"
+  }
+},
+{
+  "_id": {
+    "$oid": "68919aec3275314f2da5d108"
+  },
+  "title": "Maple Glazed Pork Tenderloin with Balsamic Reduction",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "2",
+      "unit": "lbs"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "0.25",
+      "unit": "cup"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "3",
+      "unit": "tablespoons"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2",
+      "unit": "tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3",
+      "unit": "cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2",
+      "unit": "tablespoons"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "2",
+      "unit": "sprigs"
+    },
+    {
+      "name": "shallots",
+      "amount": "2",
+      "unit": "medium"
+    },
+    {
+      "name": "butter",
+      "amount": "2",
+      "unit": "tablespoons"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Preheat oven to 425°F. Season pork tenderloin with salt and pepper.",
+      "duration": 3
+    },
+    {
+      "step": 2,
+      "description": "Heat olive oil in oven-safe skillet over medium-high heat.",
+      "duration": 2
+    },
+    {
+      "step": 3,
+      "description": "Sear pork tenderloin on all sides until golden brown, about 8 minutes total.",
+      "duration": 8
+    },
+    {
+      "step": 4,
+      "description": "Meanwhile, whisk together maple syrup, balsamic vinegar, and Dijon mustard.",
+      "duration": 2
+    },
+    {
+      "step": 5,
+      "description": "Brush pork with maple glaze and transfer skillet to oven.",
+      "duration": 2
+    },
+    {
+      "step": 6,
+      "description": "Roast 12-15 minutes until internal temperature reaches 145°F.",
+      "duration": 15
+    },
+    {
+      "step": 7,
+      "description": "Remove pork and let rest 5 minutes, then slice and serve.",
+      "duration": 5
+    }
+  ],
+  "difficulty": "medium",
+  "description": "Perfectly tender pork tenderloin with a sweet-tangy maple balsamic glaze. This elegant yet simple dish is ideal for both weeknight dinners and special occasions.",
+  "image_url": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?q=80&w=1000",
+  "prep_time": 10,
+  "cook_time": 25,
+  "cuisine_type": "American",
+  "dietary_tags": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 385,
+    "protein": 48,
+    "carbs": 18,
+    "fat": 12,
+    "fiber": 0,
+    "sugar": 16
+  },
+  "import_metadata": {
+    "source_url": "https://www.tasteofhome.com/collection/pork-dinner-recipes/",
+    "scraper_name": "RecipeExtractor",
+    "scraper_version": "1.0.0",
+    "confidence_score": 0.88,
+    "extracted_at": "2025-01-28T10:00:00Z",
+    "notes": "Popular pork recipe with excellent ratings"
+  }
+},
+{
+  "_id": {
+    "$oid": "68919aec3275314f2da5d109"
+  },
+  "title": "Korean-Mexican Fusion Bulgogi Tacos",
+  "ingredients": [
+    {
+      "name": "thinly sliced ribeye",
+      "amount": "1.5",
+      "unit": "lbs"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "0.5",
+      "unit": "cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "3",
+      "unit": "tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2",
+      "unit": "tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "4",
+      "unit": "cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1",
+      "unit": "tablespoon"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2",
+      "unit": "tablespoons"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "12",
+      "unit": "pieces"
+    },
+    {
+      "name": "kimchi",
+      "amount": "1",
+      "unit": "cup"
+    },
+    {
+      "name": "green onions",
+      "amount": "4",
+      "unit": "pieces"
+    },
+    {
+      "name": "cilantro",
+      "amount": "0.5",
+      "unit": "cup"
+    },
+    {
+      "name": "lime",
+      "amount": "2",
+      "unit": "pieces"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2",
+      "unit": "tablespoons"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Marinate sliced beef in soy sauce, brown sugar, sesame oil, garlic, and ginger for 30 minutes.",
+      "duration": 30
+    },
+    {
+      "step": 2,
+      "description": "Heat large skillet or wok over high heat until smoking.",
+      "duration": 3
+    },
+    {
+      "step": 3,
+      "description": "Cook marinated beef in batches, 2-3 minutes per batch until caramelized.",
+      "duration": 8
+    },
+    {
+      "step": 4,
+      "description": "Warm tortillas in dry skillet or over open flame until lightly charred.",
+      "duration": 5
+    },
+    {
+      "step": 5,
+      "description": "Assemble tacos with bulgogi beef, kimchi, and chopped green onions.",
+      "duration": 3
+    },
+    {
+      "step": 6,
+      "description": "Garnish with cilantro, sesame seeds, and lime wedges.",
+      "duration": 2
+    },
+    {
+      "step": 7,
+      "description": "Serve immediately with extra gochujang on the side.",
+      "duration": 1
+    }
+  ],
+  "difficulty": "medium",
+  "description": "This innovative fusion dish combines Korean bulgogi with Mexican taco format, creating a perfect marriage of sweet-savory marinated beef with spicy kimchi and fresh herbs.",
+  "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?q=80&w=1000",
+  "prep_time": 45,
+  "cook_time": 15,
+  "cuisine_type": "Korean-Mexican Fusion",
+  "dietary_tags": [
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 445,
+    "protein": 28,
+    "carbs": 32,
+    "fat": 22,
+    "fiber": 4,
+    "sugar": 12
+  },
+  "import_metadata": {
+    "source_url": "https://www.masterclass.com/articles/fusion-dishes",
+    "scraper_name": "RecipeExtractor",
+    "scraper_version": "1.0.0",
+    "confidence_score": 0.91,
+    "extracted_at": "2025-01-28T10:00:00Z",
+    "notes": "Popular fusion recipe inspired by Kogi truck success"
+  }
+},
+{
+  "_id": {
+    "$oid": "68919aec3275314f2da5d10a"
+  },
+  "title": "Creamy Mushroom Risotto with Truffle Oil",
+  "ingredients": [
+    {
+      "name": "Arborio rice",
+      "amount": "1.5",
+      "unit": "cups"
+    },
+    {
+      "name": "mixed mushrooms",
+      "amount": "1",
+      "unit": "lb"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "6",
+      "unit": "cups"
+    },
+    {
+      "name": "white wine",
+      "amount": "0.5",
+      "unit": "cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "unit": "medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3",
+      "unit": "cloves"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1",
+      "unit": "cup"
+    },
+    {
+      "name": "butter",
+      "amount": "4",
+      "unit": "tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3",
+      "unit": "tablespoons"
+    },
+    {
+      "name": "truffle oil",
+      "amount": "2",
+      "unit": "tablespoons"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2",
+      "unit": "teaspoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "0.25",
+      "unit": "cup"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Heat vegetable broth in a saucepan and keep warm over low heat.",
+      "duration": 5
+    },
+    {
+      "step": 2,
+      "description": "Sauté sliced mushrooms in olive oil until golden brown. Season and set aside.",
+      "duration": 8
+    },
+    {
+      "step": 3,
+      "description": "In same pan, melt 2 tablespoons butter and sauté onion until translucent.",
+      "duration": 5
+    },
+    {
+      "step": 4,
+      "description": "Add garlic and thyme, cook 1 minute, then add rice and stir 2 minutes.",
+      "duration": 3
+    },
+    {
+      "step": 5,
+      "description": "Add wine and stir until absorbed, then add warm broth one ladle at a time.",
+      "duration": 25
+    },
+    {
+      "step": 6,
+      "description": "Stir constantly, adding broth as absorbed, until rice is creamy and al dente.",
+      "duration": 20
+    },
+    {
+      "step": 7,
+      "description": "Stir in mushrooms, remaining butter, Parmesan, and truffle oil.",
+      "duration": 3
+    },
+    {
+      "step": 8,
+      "description": "Garnish with fresh parsley and serve immediately.",
+      "duration": 2
+    }
+  ],
+  "difficulty": "medium",
+  "description": "A luxurious and creamy mushroom risotto finished with aromatic truffle oil and fresh Parmesan. This elegant comfort food is perfect for special dinners and cozy nights in.",
+  "image_url": "https://images.unsplash.com/photo-1476124369491-e7addf5db371?q=80&w=1000",
+  "prep_time": 15,
+  "cook_time": 45,
+  "cuisine_type": "Italian",
+  "dietary_tags": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 16,
+    "carbs": 58,
+    "fat": 24,
+    "fiber": 3,
+    "sugar": 6
+  },
+  "import_metadata": {
+    "source_url": "https://food52.com/story/26713-best-comfort-food-recipes",
+    "scraper_name": "RecipeExtractor",
+    "scraper_version": "1.0.0",
+    "confidence_score": 0.93,
+    "extracted_at": "2025-01-28T10:00:00Z",
+    "notes": "Classic Italian comfort food with high ratings"
+  }
+},
+{
+  "_id": {
+    "$oid": "68919aec3275314f2da5d10b"
+  },
+  "title": "Miso-Mushroom Pasta with Asian Fusion Flavors",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "12",
+      "unit": "oz"
+    },
+    {
+      "name": "mixed mushrooms",
+      "amount": "1",
+      "unit": "lb"
+    },
+    {
+      "name": "white miso paste",
+      "amount": "3",
+      "unit": "tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "4",
+      "unit": "tablespoons"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "0.5",
+      "unit": "cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "4",
+      "unit": "cloves"
+    },
+    {
+      "name": "green onions",
+      "amount": "4",
+      "unit": "pieces"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1",
+      "unit": "tablespoon"
+    },
+    {
+      "name": "mirin",
+      "amount": "2",
+      "unit": "tablespoons"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "2",
+      "unit": "tablespoons"
+    },
+    {
+      "name": "nori sheets",
+      "amount": "1",
+      "unit": "sheet"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Cook pasta according to package directions until al dente, reserve 1 cup pasta water.",
+      "duration": 12
+    },
+    {
+      "step": 2,
+      "description": "Meanwhile, sauté sliced mushrooms in butter until golden and caramelized.",
+      "duration": 10
+    },
+    {
+      "step": 3,
+      "description": "Add minced garlic and cook until fragrant, about 1 minute.",
+      "duration": 1
+    },
+    {
+      "step": 4,
+      "description": "Whisk miso paste with cream and mirin until smooth.",
+      "duration": 2
+    },
+    {
+      "step": 5,
+      "description": "Add miso mixture to mushrooms and simmer until creamy.",
+      "duration": 3
+    },
+    {
+      "step": 6,
+      "description": "Toss drained pasta with mushroom sauce, adding pasta water as needed.",
+      "duration": 2
+    },
+    {
+      "step": 7,
+      "description": "Garnish with green onions, sesame seeds, and torn nori. Drizzle with sesame oil.",
+      "duration": 3
+    }
+  ],
+  "difficulty": "easy",
+  "description": "An innovative East-meets-West fusion pasta combining umami-rich miso with creamy mushrooms for a satisfying bowl that bridges Italian comfort food with Japanese flavors.",
+  "image_url": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=1000",
+  "prep_time": 10,
+  "cook_time": 20,
+  "cuisine_type": "Italian-Japanese Fusion",
+  "dietary_tags": [
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 485,
+    "protein": 18,
+    "carbs": 62,
+    "fat": 18,
+    "fiber": 4,
+    "sugar": 8
+  },
+  "import_metadata": {
+    "source_url": "https://food52.com/recipes/77676-miso-mushroom-pasta",
+    "scraper_name": "RecipeExtractor",
+    "scraper_version": "1.0.0",
+    "confidence_score": 0.89,
+    "extracted_at": "2025-01-28T10:00:00Z",
+    "notes": "Popular fusion pasta recipe from Food52"
+  }
+},
+{
+  "_id": {
+    "$oid": "68919aec3275314f2da5d10c"
+  },
+  "title": "Ultimate Loaded Mac and Cheese Casserole",
+  "ingredients": [
+    {
+      "name": "elbow macaroni",
+      "amount": "1",
+      "unit": "lb"
+    },
+    {
+      "name": "sharp cheddar cheese",
+      "amount": "8",
+      "unit": "oz"
+    },
+    {
+      "name": "Gruyere cheese",
+      "amount": "4",
+      "unit": "oz"
+    },
+    {
+      "name": "cream cheese",
+      "amount": "4",
+      "unit": "oz"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1",
+      "unit": "cup"
+    },
+    {
+      "name": "whole milk",
+      "amount": "2",
+      "unit": "cups"
+    },
+    {
+      "name": "butter",
+      "amount": "4",
+      "unit": "tablespoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "0.25",
+      "unit": "cup"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1",
+      "unit": "teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1",
+      "unit": "teaspoon"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1",
+      "unit": "cup"
+    },
+    {
+      "name": "bacon",
+      "amount": "6",
+      "unit": "strips"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Preheat oven to 375°F. Cook macaroni until just under al dente, drain.",
+      "duration": 10
+    },
+    {
+      "step": 2,
+      "description": "Cook bacon until crispy, then crumble and set aside.",
+      "duration": 8
+    },
+    {
+      "step": 3,
+      "description": "Melt butter in large pot, whisk in flour and cook 2 minutes.",
+      "duration": 3
+    },
+    {
+      "step": 4,
+      "description": "Gradually whisk in milk and cream, bring to simmer until thickened.",
+      "duration": 8
+    },
+    {
+      "step": 5,
+      "description": "Remove from heat, stir in cream cheese, mustard, and garlic powder.",
+      "duration": 2
+    },
+    {
+      "step": 6,
+      "description": "Add grated cheeses and stir until melted and smooth.",
+      "duration": 3
+    },
+    {
+      "step": 7,
+      "description": "Fold in cooked macaroni and half the bacon, transfer to baking dish.",
+      "duration": 3
+    },
+    {
+      "step": 8,
+      "description": "Top with panko and remaining bacon, bake 25 minutes until bubbly.",
+      "duration": 25
+    },
+    {
+      "step": 9,
+      "description": "Let rest 10 minutes before serving.",
+      "duration": 10
+    }
+  ],
+  "difficulty": "easy",
+  "description": "The ultimate comfort food indulgence featuring three cheeses, crispy bacon, and a golden panko crust. This loaded mac and cheese is perfect for feeding a crowd or satisfying serious comfort food cravings.",
+  "image_url": "https://images.unsplash.com/photo-1574894709920-11b28e7367e3?q=80&w=1000",
+  "prep_time": 20,
+  "cook_time": 45,
+  "cuisine_type": "American",
+  "dietary_tags": [],
+  "nutrition": {
+    "calories": 680,
+    "protein": 28,
+    "carbs": 48,
+    "fat": 42,
+    "fiber": 2,
+    "sugar": 8
+  },
+  "import_metadata": {
+    "source_url": "https://food52.com/story/26713-best-comfort-food-recipes",
+    "scraper_name": "RecipeExtractor",
+    "scraper_version": "1.0.0",
+    "confidence_score": 0.96,
+    "extracted_at": "2025-01-28T10:00:00Z",
+    "notes": "Classic American comfort food with perfect ratings"
+  },
+  "is_active": true,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "68919aec3275314f2da5d10d"
+  },
+  "title": "Brazilian Moqueca Fish Stew with Coconut Milk",
+  "ingredients": [
+    {
+      "name": "white fish fillets",
+      "amount": "2",
+      "unit": "lbs"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1",
+      "unit": "can"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "unit": "medium"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "3",
+      "unit": "medium"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "unit": "large"
+    },
+    {
+      "name": "garlic",
+      "amount": "4",
+      "unit": "cloves"
+    },
+    {
+      "name": "lime juice",
+      "amount": "0.25",
+      "unit": "cup"
+    },
+    {
+      "name": "dendê oil",
+      "amount": "3",
+      "unit": "tablespoons"
+    },
+    {
+      "name": "malagueta peppers",
+      "amount": "2",
+      "unit": "pieces"
+    },
+    {
+      "name": "cilantro",
+      "amount": "0.5",
+      "unit": "cup"
+    },
+    {
+      "name": "ginger",
+      "amount": "1",
+      "unit": "tablespoon"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Cut fish into chunks and marinate with lime juice and salt for 15 minutes.",
+      "duration": 15
+    },
+    {
+      "step": 2,
+      "description": "Heat dendê oil in large pot over medium heat.",
+      "duration": 2
+    },
+    {
+      "step": 3,
+      "description": "Sauté sliced onions and bell peppers until softened, about 5 minutes.",
+      "duration": 5
+    },
+    {
+      "step": 4,
+      "description": "Add garlic, ginger, and peppers, cook 2 minutes until fragrant.",
+      "duration": 2
+    },
+    {
+      "step": 5,
+      "description": "Add diced tomatoes and cook until they start to break down.",
+      "duration": 8
+    },
+    {
+      "step": 6,
+      "description": "Pour in coconut milk and bring to gentle simmer.",
+      "duration": 3
+    },
+    {
+      "step": 7,
+      "description": "Add marinated fish and cook 8-10 minutes until fish is cooked through.",
+      "duration": 10
+    },
+    {
+      "step": 8,
+      "description": "Garnish with fresh cilantro and serve with rice.",
+      "duration": 2
+    }
+  ],
+  "difficulty": "hard",
+  "description": "This authentic Brazilian seafood stew features tender fish simmered in coconut milk with peppers, tomatoes, and aromatic spices. A exotic and flavorful dish that brings the taste of Brazil to your table.",
+  "image_url": "https://images.unsplash.com/photo-1547592166-23ac45744acd?q=80&w=1000",
+  "prep_time": 25,
+  "cook_time": 30,
+  "cuisine_type": "Brazilian",
+  "dietary_tags": [
+    "gluten-free",
+    "dairy-free",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 385,
+    "protein": 42,
+    "carbs": 15,
+    "fat": 18,
+    "fiber": 4,
+    "sugar": 10
+  },
+  "import_metadata": {
+    "source_url": "https://www.feastingathome.com/healthy-fish-recipes/",
+    "scraper_name": "RecipeExtractor",
+    "scraper_version": "1.0.0",
+    "confidence_score": 0.87,
+    "extracted_at": "2025-01-28T10:00:00Z",
+    "notes": "Popular Brazilian seafood recipe with excellent ratings"
+  }
+}]
